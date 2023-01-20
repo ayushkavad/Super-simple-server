@@ -1,0 +1,23 @@
+{
+  "name": "super-simple-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/server.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkavad/Super-simple-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushkavad/Super-simple-server/issues"
+  },
+  "homepage": "https://github.com/ayushkavad/Super-simple-server#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
